@@ -1,19 +1,22 @@
 # DESCRIÇÕES DEVOPS
+```bash
 ### DAVI SILVA
 ### EMAIL: devops.davi@gmail.com
 ### LINKEDIN: https://www.linkedin.com/in/david-santos-b4678524a/
 ### WHATSAPP: 119
+```
 
 ## DESCRIÇÕES DO APPSITE
-
+```bash
 * Administrar ganhos e gastos (controle financeiro)
 * Visualização do saldo de entrada e saída.
 * Cadastro e exclusão de transações
-
+```
 
 ## LINGUAGENS
+```bash
 - Javascript - Html - Css
-
+```
 
 ## RODAR PROJETO LOCAL - SIMPLES
 
