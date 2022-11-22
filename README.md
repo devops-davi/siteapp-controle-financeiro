@@ -1,6 +1,10 @@
-# DESCRIÇÕES DEVOPS DAVI SILVA
+# DESCRIÇÕES DEVOPS
+### DAVI SILVA
+### EMAIL: devops.davi@gmail.com
+### LINKEDIN: https://www.linkedin.com/in/david-santos-b4678524a/
+### WHATSAPP: 119
 
-## PRINCIPAIS FUNCIONALIDADES
+## DESCRIÇÕES DO APPSITE
 
 * Administrar ganhos e gastos (controle financeiro)
 * Visualização do saldo de entrada e saída.
