@@ -1,5 +1,5 @@
 
-## RESUMO DESIGNER PATTERNS JS [![Coverage Status](https://coveralls.io/repos/github/FelipeBB/Design-Patterns-JS/badge.svg?branch=master)](https://coveralls.io/github/FelipeBB/Design-Patterns-JS?branch=master)
+## RESUMO DESIGNER PATTERNS JS
 
 - Aqui você encontrará o básico padrão de design implementado em JavaScript. Você pode usar o docs.md para uma visão geral rápida dos exemplos.
 
