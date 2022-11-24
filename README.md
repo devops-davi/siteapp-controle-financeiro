@@ -107,8 +107,7 @@ Segue a lista de padrões separados por tipo:
 - abrir projeto na porta localhost:8080
 ```
 
-## 3 MODELOS BÁSICOS DE ARQUITETURA 
-## PARA HOMOLOGAÇÃO E PRODUÇÃO DO APP-SITE
+## MODELO DE SUPOSTA SOLUÇÃO
 
 <img src="./assets/arquitetura-1-ec2.jpg" style=" HEIGHT: 500px; LEFT: 400px"/>
 
