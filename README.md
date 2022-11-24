@@ -110,7 +110,7 @@ Segue a lista de padrões separados por tipo:
 ## 3 MODELOS BÁSICOS DE ARQUITETURA 
 ## PARA HOMOLOGAÇÃO E PRODUÇÃO DO APP-SITE
 
-<img src="./assets/arquitetura-1-ec2.jpg" style=" HEIGHT: 200px; LEFT: 400px"/>
+<img src="./assets/arquitetura-1-ec2.jpg" style=" HEIGHT: 500px; LEFT: 400px"/>
 
 ## LICENÇA ESTÁ NO PROJETO
 
