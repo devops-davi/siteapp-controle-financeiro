@@ -103,6 +103,8 @@ Segue a lista de padrões separados por tipo:
 - docker build -t nityo-controle-fluxo/davi-versao:1.0 .
 
 - docker run -d --name nityo-controle-fluxo -p 8080:80 nityo-controle-fluxo/davi-versao:1.0
+
+- abrir projeto na porta localhost:8080
 ```
 
 ## 3 MODELOS BÁSICOS DE ARQUITETURA 
