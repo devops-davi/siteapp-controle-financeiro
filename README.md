@@ -109,8 +109,6 @@ Segue a lista de padrões separados por tipo:
 ## PARA HOMOLOGAÇÃO E PRODUÇÃO DO APP-SITE
 
 <img src="./assets/arquitetura-1-ec2.jpg" style=" HEIGHT: 200px; LEFT: 400px"/>
-<img src="./assets/arquitetura-2-fargate.jpg" style=" HEIGHT: 200px; LEFT: 400px"/>
-<img src="./assets/arquitetura-3-on-promisses.jpg" style=" HEIGHT: 200px; LEFT: 200px"/>
 
 ## LICENÇA ESTÁ NO PROJETO
 
